@@ -1,8 +1,7 @@
 # CodeAlpha_Unemployment_Analysis
 # Unemployment Analysis with Python
 
-This project analyzes unemployment trends in India using Python and data visualization techniques.  
-The analysis helps identify unemployment patterns across different regions and understand trends during different time periods.
+This project analyzes unemployment trends in India using Python and data visualization techniques.
 
 ## Technologies Used
 - Python
@@ -20,13 +19,13 @@ The analysis helps identify unemployment patterns across different regions and u
 ## Output Screenshots
 
 ### Histogram
-![Histogram](Histogram)
+![Histogram](Histogram.png)
 
 ### Region-wise Analysis
-![Region Analysis](region%20Analysis)
+![Region Analysis](region%20Analysis.png)
 
 ### Heatmap
-![Heatmap](Heatmap)
+![Heatmap](Heatmap.png)
 
 ## Insights
 - Some regions have higher unemployment rates.
@@ -34,4 +33,4 @@ The analysis helps identify unemployment patterns across different regions and u
 - Correlation analysis helps understand relationships between different factors.
 
 ## Conclusion
-This project demonstrates how Python libraries can be used for data analysis and visualization to gain meaningful insights from unemployment datasets.
+This project demonstrates how Python libraries can be used for unemployment data analysis and visualization.
